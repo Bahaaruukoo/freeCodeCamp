@@ -1,5 +1,4 @@
 def arithmetic_arranger(lst, args=False):
-
     listOne = list()
     listTwo = list()
     listThree = list()
